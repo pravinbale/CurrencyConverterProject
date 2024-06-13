@@ -1,2 +1,2 @@
 # CurrencyConverterProject
-This projecct is biuld using HTML, CSS and JavaScript.
+This project is developed using HTML, CSS and JavaScript.
